@@ -16,7 +16,7 @@ Heap Sort is an efficient, comparison-based sorting algorithm that uses a binary
 
 ## How to Run
 
-1\. **Clone the Repository**:
+1. **Clone the Repository**:
 
     ```sh
 
@@ -24,7 +24,7 @@ Heap Sort is an efficient, comparison-based sorting algorithm that uses a binary
 
     ```
 
-2\. **Navigate to the Project Directory**:
+2. **Navigate to the Project Directory**:
 
     ```sh
 
@@ -32,7 +32,7 @@ Heap Sort is an efficient, comparison-based sorting algorithm that uses a binary
 
     ```
 
-3\. **Compile and Run the Program**:
+3. **Compile and Run the Program**:
 
     ```sh
 
@@ -46,11 +46,11 @@ Heap Sort is an efficient, comparison-based sorting algorithm that uses a binary
 
 The algorithm can be broken down into the following steps:
 
-1\. **Build the Max Heap**: 
+1. **Build the Max Heap**: 
 
    - Starting from the last non-leaf node, call the `heapify` function to ensure the max-heap property is maintained.
 
-2\. **Extract Elements from the Heap**:
+2. **Extract Elements from the Heap**:
 
    - Swap the root of the heap (largest element) with the last element in the heap.
 
