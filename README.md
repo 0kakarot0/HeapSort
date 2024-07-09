@@ -18,29 +18,31 @@ Heap Sort is an efficient, comparison-based sorting algorithm that uses a binary
 
 1. **Clone the Repository**:
 
-    ```sh
+```sh
 
     git clone https://github.com/0kakarot0/HeapSort.git
 
-    ```
+```
 
 2. **Navigate to the Project Directory**:
 
-    ```sh
+```sh
 
     cd HeapSort
 
-    ```
+```
 
 3. **Compile and Run the Program**:
 
-    ```sh
+```sh
 
     javac heap_sort/HeapSort.java
 
+```
+```sh
     java heap_sort.HeapSort
 
-    ```
+```
 
 ## How It Works
 
